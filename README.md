@@ -1,4 +1,4 @@
-# head-spinning-HTML+CSS+GSAP
+# onion-spinning-HTML+CSS+GSAP
 
 
 
